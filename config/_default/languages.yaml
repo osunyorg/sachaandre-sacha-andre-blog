@@ -6,6 +6,7 @@ fr:
   languageCode: fr
   languageName: Français
   permalinks:
+    persons: /equipe/:slug/
   taxonomies:
     administrator: administrators
     author: authors
