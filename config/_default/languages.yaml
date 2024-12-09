@@ -7,17 +7,35 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      email: >-
-        pro@sachaandre.com
-      mastodon: >-
-        @sachaandre3309@piaille.fr
-      x: >-
-        @sachaandre3309
-      instagram: >-
-        @sachaandre3309
-      facebook: >-
-        @sachaandre3309
+    contact_details:
+      emails:
+        email:
+          label: >-
+            pro@sachaandre.com
+          value: >-
+            mailto:pro@sachaandre.com
+      social_networks:
+        facebook:
+          label: >-
+            sachaandre3309
+          value: >-
+            https://www.facebook.com/sachaandre3309
+        instagram:
+          label: >-
+            sachaandre3309
+          value: >-
+            https://instagram.com/sachaandre3309
+        mastodon:
+          label: >-
+            @sachaandre3309@piaille.fr
+          value: >-
+            https://@sachaandre3309@piaille.fr
+        x:
+          label: >-
+            sachaandre3309
+          value: >-
+            https://x.com/sachaandre3309
+
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
