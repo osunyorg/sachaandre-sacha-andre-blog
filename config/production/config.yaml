@@ -2,6 +2,11 @@
 
 baseURL: https://sacha-andre-blog.sachaandre.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: f9540978-5495-48ea-88e9-bb6d89ed15fe
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
