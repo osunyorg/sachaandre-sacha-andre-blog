@@ -2,7 +2,7 @@
 
 fr:
   title: >-
-    Sacha André - Blog
+    Sacha André
   contentDir: content/fr
   languageCode: fr
   languageName: Français
@@ -21,11 +21,21 @@ fr:
             sachaandre3309
           value: >-
             https://www.facebook.com/sachaandre3309
+        github:
+          label: >-
+            sachaandre
+          value: >-
+            https://github.com/sachaandre
         instagram:
           label: >-
             sachaandre3309
           value: >-
             https://instagram.com/sachaandre3309
+        linkedin:
+          label: >-
+            sachaandre
+          value: >-
+            https://www.linkedin.com/in/sachaandre/
         mastodon:
           label: >-
             @sachaandre3309@piaille.fr
