@@ -8,11 +8,6 @@ items:
   children: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Mon blog
-  target: https://blogs.mediapart.fr/sacha-andre/blog
-  kind: url
-  new_tab: false
-  children: []
 - title: Imprimerie de l'Estey
   target: https://www.imprimeriedelestey.fr/
   kind: url
