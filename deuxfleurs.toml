@@ -15,50 +15,50 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/sool-me/index.html"
+from = "/sool-me/"
 to = "/organisations/sool-me/"
 
 [[redirects]]
-from = "/damien-maudet/index.html"
+from = "/damien-maudet/"
 to = "/organisations/damien-maudet/"
 
 [[redirects]]
-from = "/plutotcool/index.html"
+from = "/plutotcool/"
 to = "/organisations/plutotcool/"
 
 [[redirects]]
-from = "/sophie-taille-polian/index.html"
+from = "/sophie-taille-polian/"
 to = "/organisations/sophie-taille-polian/"
 
 [[redirects]]
-from = "/categories/reseau/index.html"
+from = "/categories/reseau/"
 to = "/organisations/categories/reseau/"
 
 [[redirects]]
-from = "/carbonmaps/index.html"
+from = "/carbonmaps/"
 to = "/organisations/carbonmaps/"
 
 [[redirects]]
-from = "/categories/lutte-antilgv/index.html"
+from = "/categories/lutte-antilgv/"
 to = "/organisations/categories/lutte-antilgv/"
 
 [[redirects]]
-from = "/editions-agullo/index.html"
+from = "/editions-agullo/"
 to = "/organisations/editions-agullo/"
 
 [[redirects]]
-from = "/noesya/index.html"
+from = "/noesya/"
 to = "/organisations/noesya/"
 
 [[redirects]]
-from = "/equipe/ilona-huyn/index.html"
+from = "/equipe/ilona-huyn/"
 to = "/equipe/ilona-huynh/"
 
 [[redirects]]
-from = "/megaphone-communication/index.html"
+from = "/megaphone-communication/"
 to = "/organisations/megaphone-communication/"
 
 [[redirects]]
-from = "/la-france-insoumise/index.html"
+from = "/la-france-insoumise/"
 to = "/organisations/la-france-insoumise/"
 
