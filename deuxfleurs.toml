@@ -13,3 +13,52 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/sool-me/index.html"
+to = "/organisations/sool-me/"
+
+[[redirects]]
+from = "/damien-maudet/index.html"
+to = "/organisations/damien-maudet/"
+
+[[redirects]]
+from = "/plutotcool/index.html"
+to = "/organisations/plutotcool/"
+
+[[redirects]]
+from = "/sophie-taille-polian/index.html"
+to = "/organisations/sophie-taille-polian/"
+
+[[redirects]]
+from = "/categories/reseau/index.html"
+to = "/organisations/categories/reseau/"
+
+[[redirects]]
+from = "/carbonmaps/index.html"
+to = "/organisations/carbonmaps/"
+
+[[redirects]]
+from = "/categories/lutte-antilgv/index.html"
+to = "/organisations/categories/lutte-antilgv/"
+
+[[redirects]]
+from = "/editions-agullo/index.html"
+to = "/organisations/editions-agullo/"
+
+[[redirects]]
+from = "/noesya/index.html"
+to = "/organisations/noesya/"
+
+[[redirects]]
+from = "/equipe/ilona-huyn/index.html"
+to = "/equipe/ilona-huynh/"
+
+[[redirects]]
+from = "/megaphone-communication/index.html"
+to = "/organisations/megaphone-communication/"
+
+[[redirects]]
+from = "/la-france-insoumise/index.html"
+to = "/organisations/la-france-insoumise/"
+
