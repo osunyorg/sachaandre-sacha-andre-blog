@@ -17,4 +17,13 @@ items:
   new_tab: true
   children: []
   descendants_targets: []
+- title: Recommandations
+  slug: recommandations
+  target: "/recommandations/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/recommandations"
+  file: content/fr/pages/recommandations/_index.html
 
