@@ -1,0 +1,11 @@
+@include media-breakpoint-up(md)
+    .projects--grid
+        grid-template-columns: repeat(3, 1fr)
+        gap: 2rem
+
+        article.project
+            .media
+                border: 5px solid var(--color-background-alt)
+                border-radius: 3px
+                max-height: 200px
+    
